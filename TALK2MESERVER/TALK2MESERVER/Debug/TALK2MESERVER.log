@@ -1,0 +1,19 @@
+﻿生成启动时间为 2014/4/23 0:15:08。
+     1>项目“F:\TCP\TALK2MESERVER\TALK2MESERVER\TALK2MESERVER.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\ProgramFiles\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\TALK2MESERVER.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt TALK2MESERVERDlg.cpp
+         TALK2MESERVERDlg.cpp
+     1>f:\tcp\talk2meserver\talk2meserver\talk2meserverdlg.cpp(72): warning C4002: “ON_WM_CLOSE”宏的实参太多
+     1>f:\tcp\talk2meserver\talk2meserver\talk2meserverdlg.cpp(169): warning C4800: “MYSQL *”: 将值强制为布尔值“true”或“false”(性能警告)
+       Link:
+         D:\ProgramFiles\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\TCP\TALK2MESERVER\Debug\TALK2MESERVER.exe" /INCREMENTAL /NOLOGO libmysql.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\ProgramFiles\VS2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"F:\TCP\TALK2MESERVER\Debug\TALK2MESERVER.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\TCP\TALK2MESERVER\Debug\TALK2MESERVER.lib" /MACHINE:X86 Debug\TALK2MESERVER.res
+         Debug\SetServerIpPort.obj
+         Debug\stdafx.obj
+         Debug\TALK2MESERVER.obj
+         Debug\TALK2MESERVERDlg.obj
+         TALK2MESERVER.vcxproj -> F:\TCP\TALK2MESERVER\Debug\TALK2MESERVER.exe
+     1>已完成生成项目“F:\TCP\TALK2MESERVER\TALK2MESERVER\TALK2MESERVER.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.41

@@ -1,0 +1,19 @@
+﻿生成启动时间为 2014/3/31 16:10:09。
+     1>项目“F:\TCP\Talk2Me\Talk2Me\Talk2Me.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\Talk2Me.res" Talk2Me.rc 
+       Link:
+         D:\ProgramFiles\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\TCP\Talk2Me\Release\Talk2Me.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\ProgramFiles\VS2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"F:\TCP\Talk2Me\Release\Talk2Me.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\TCP\Talk2Me\Release\Talk2Me.lib" /MACHINE:X86 /SAFESEH Release\Talk2Me.res
+         Release\SetServerIpPort.obj
+         Release\stdafx.obj
+         Release\Talk2Me.obj
+         Release\Talk2MeDlg.obj
+         正在生成代码
+     1>f:\tcp\talk2me\talk2me\talk2medlg.cpp(361): warning C4717: “CTalk2MeDlg::PreCreateWindow”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+         已完成代码的生成
+         Talk2Me.vcxproj -> F:\TCP\Talk2Me\Release\Talk2Me.exe
+     1>已完成生成项目“F:\TCP\Talk2Me\Talk2Me\Talk2Me.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.88

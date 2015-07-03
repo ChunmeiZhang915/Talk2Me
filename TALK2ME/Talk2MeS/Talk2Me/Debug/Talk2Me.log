@@ -1,0 +1,26 @@
+﻿生成启动时间为 2014/4/28 23:02:15。
+     1>项目“F:\TCP\Talk2MeS\Talk2Me\Talk2Me.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\ProgramFiles\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Talk2Me.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Talk2MeDlg.cpp
+         Talk2MeDlg.cpp
+     1>f:\tcp\talk2mes\talk2me\talk2medlg.cpp(93): warning C4002: “ON_WM_CLOSE”宏的实参太多
+       Link:
+         D:\ProgramFiles\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\TCP\Talk2MeS\Debug\Talk2Me.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\ProgramFiles\VS2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"F:\TCP\Talk2MeS\Debug\Talk2Me.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\TCP\Talk2MeS\Debug\Talk2Me.lib" /MACHINE:X86 Debug\Talk2Me.res
+         Debug\ChatRoom.obj
+         Debug\ChatroomIn.obj
+         Debug\Conversation.obj
+         Debug\FileRecv.obj
+         Debug\Friends.obj
+         Debug\Login.obj
+         Debug\Progress.obj
+         Debug\SetServerIpPort.obj
+         Debug\Signup.obj
+         Debug\stdafx.obj
+         Debug\Talk2Me.obj
+         Debug\Talk2MeDlg.obj
+         Talk2Me.vcxproj -> F:\TCP\Talk2MeS\Debug\Talk2Me.exe
+     1>已完成生成项目“F:\TCP\Talk2MeS\Talk2Me\Talk2Me.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.85
